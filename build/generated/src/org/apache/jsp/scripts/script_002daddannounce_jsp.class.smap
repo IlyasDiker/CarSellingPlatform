@@ -1,0 +1,11 @@
+SMAP
+script_002daddannounce_jsp.java
+JSP
+*S JSP
+*F
++ 0 script-addannounce.jsp
+scripts/script-addannounce.jsp
+*L
+5,7:47
+13,24:55
+*E
