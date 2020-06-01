@@ -20,7 +20,7 @@ Made with love ❤
 
 
 
-**Thanks to **
+**Thanks to**
 
 |                  Myself                  | [Saad Kardoudi](https://github.com/Saad-kardoudi) | [KeepitSafe](https://github.com/KeepItSafe225) |
 | :--------------------------------------: | :-----------------------------------------------: | :--------------------------------------------: |
